@@ -1,1 +1,1 @@
-# dwd-serious-sql
+# Serious SQL (and Git!)
