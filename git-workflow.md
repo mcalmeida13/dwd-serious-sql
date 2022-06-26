@@ -53,4 +53,8 @@ git commit -m "add this new feature"
 git push --set-upstream origin dev 
 ```
 
+<<<<<<< HEAD
 Vamos escrever um monte de baboseira aqui
+=======
+vamo ver fogo no parquinho
+>>>>>>> main
