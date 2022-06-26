@@ -2,10 +2,6 @@
 git clone <repository-on-git-hub>
 ```
 
-
-# Branching
-
-Let's learn how to use branches
 # Commit 
 ```
 git add <file-name>
@@ -28,7 +24,9 @@ But your code doesn't live on Github yet. In order to do this, you need to 'push
 git push
 ```
 
+# Branching
 
+Let's learn how to use branches
 
 
 ```
