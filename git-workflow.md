@@ -30,5 +30,7 @@ Let's learn how to use branches
 
 
 ```
-git branch <new-branch-name>
+git branch -b <new-branch-name>
 ```
+
+`-b` means we're creating a new branch
